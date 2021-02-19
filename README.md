@@ -2,12 +2,18 @@
 
 XY table to be used for the Laser4DIY project, see http://www.laser4diy.org/
 
+![Laser4DIY XY Table](/Low Profile XY Table.jpg)
+
+- Table Size: 165mm x 165mm
+- Overall Size: 278mm x 333mm x 56mm
+- Based on 2 OpenBuilds NEMA17 V-Slot Actuators with Lead Scew
+
 See https://wiki.fablab-muenchen.de/display/WIKI/LASER4DIY+Low+Profile+XY+Table for details.
 
 
 --
 
-Copyright FabLab München e.V. 2021
+Copyright FabLab MÃ¼nchen e.V. 2021
 
 This source describes Open Hardware and is licensed under the CERN-OHL-P v2
 
