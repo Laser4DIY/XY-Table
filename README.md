@@ -2,7 +2,7 @@
 
 XY table to be used for the Laser4DIY project, see http://www.laser4diy.org/
 
-![Laser4DIY XY Table](/Low Profile XY Table.jpg)
+![Laser4DIY XY Table](Low%20Profile%20XY%20Table.jpg)
 
 - Table Size: 165mm x 165mm
 - Overall Size: 278mm x 333mm x 56mm
